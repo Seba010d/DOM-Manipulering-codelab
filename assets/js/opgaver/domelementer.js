@@ -15,8 +15,8 @@ farven på elementerne skal være blå. brug evt. elelement.style.backgroundColo
 */
 
 // din kode her
-redFigure.style.backgroundColor = "Purple";
-yellowFigure.style.backgroundColor = "Purple";
+redFigure.style.backgroundColor = "blue";
+yellowFigure.style.backgroundColor = "blue";
 
 /* opgave 2.1
 Du skal oprette følgende HTML elementer i Elementet med id opgaveTwo.
